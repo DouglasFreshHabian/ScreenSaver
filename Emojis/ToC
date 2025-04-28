@@ -1,0 +1,8 @@
+# Table of Contents:
+
+## emojis.json
+contains entire list of emojis in json format so that you can grep for specific emojis by tags
+
+## emojis-sorted
+Contains entire list of emojis approximately 30 per line with spacing in between emojis and line spacing in between each row. All other text, characters, etc. has been removed so that all
+that is left are the emojis. Perfect for getting a good look at all of the emojis and performing copy & paste.
