@@ -31,14 +31,6 @@ chmod +x ./screensaver.sh
 
 ---
 
-Or move it to a system path:
-
-```bash
-sudo cp screensaver.sh /usr/local/bin/screensaver
-sudo chmod +x /usr/local/bin/screensaver
-screensaver
-```
-
 ## 📝 Customization Options
 ---
 
@@ -146,7 +138,7 @@ Sunset_Dream=(
 
 1. Load the color scheme by setting the `color_scheme` variable in the `screensaver.sh` script.
   ```bash
-     color_scheme="Candy_Shop"  # Replace with any scheme from color_scheme.conf
+     color_scheme_name="Candy_Shop"  # Replace with any scheme from color_scheme.conf
   ```
 2. Switch between color schemes by simply changing the value of `color_scheme` to a different scheme name (e.g., "Sunset_Dream").
 3. How It Works: The script will read from the `color_scheme.conf` file, load the colors associated with the chosen scheme, and apply them to the terminal animation.
