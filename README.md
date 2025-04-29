@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/status-stable-success.svg)
 ![Issues](https://img.shields.io/github/issues/DouglasFreshHabian/ScreenSaver)
 ![Stars](https://img.shields.io/github/stars/DouglasFreshHabian/ScreenSaver?style=social)
+
+[![asciicast](https://asciinema.org/a/717360.svg)](https://asciinema.org/a/717360)
 # Customizable Terminal Animation Script
 This script allows you to customize a terminal animation with floating emojis, scrolling text, and vibrant background colors. The primary purpose is to enhance the terminal experience with an engaging and interactive visual display.
 
